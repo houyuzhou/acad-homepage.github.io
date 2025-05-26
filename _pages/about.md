@@ -31,7 +31,7 @@ I am interested in algorithmic game theory and computational social choice.
 ### Under Review
 
 - **Large Language Models for Multi-Facility Location Mechanism Design**  
-  Nguyen T Thach, Fei Liu, Houyu Zhou, Hau Chan
+  Nguyen T Thach, Fei Liu, ***Houyu Zhou***, Hau Chan
 
 - **Learning-Augmented Facility Location Mechanisms for the Envy Ratio Objective**  
   (α-β) Haris Aziz, Yuhang Guo, Alexander Lam, ***Houyu Zhou***
