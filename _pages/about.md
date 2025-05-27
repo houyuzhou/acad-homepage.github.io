@@ -28,22 +28,24 @@ I am interested in algorithmic game theory and computational social choice.
 
 # 📝 Publications 
 
+_Note: By international convention, authors for papers in **T**heoretical **C**omputer **S**cience (TCS) and **Econ**omics and **C**omputer **S**cience (EconCS) are ordered alphabetically. Asterisk indicates papers in theoretical computer science where alphabetical authorship is used. † indicates the corresponding author._
+
 ### Under Review
 
 - **Large Language Models for Multi-Facility Location Mechanism Design**  
-  Nguyen T Thach, Fei Liu, ***Houyu Zhou***, Hau Chan
+  Nguyen T Thach, Fei Liu, ***Houyu Zhou<sup>†</sup>***, Hau Chan
 
 - **Learning-Augmented Facility Location Mechanisms for the Envy Ratio Objective**  
   (α-β) Haris Aziz, Yuhang Guo, Alexander Lam, ***Houyu Zhou***
 
 - **Group-fair Facility Location Games with Externalities**  
-  (α-β) Minming Li, Cheng Peng, Ying Wang, ***Houyu Zhou***
+  (α-β) Minming Li, Cheng Peng, Ying Wang, ***Houyu Zhou<sup>†</sup>***
 
 - **Facility Location Games with Competitors**  
-  (α-β) Cheng Peng, ***Houyu Zhou***
+  (α-β) Cheng Peng, ***Houyu Zhou<sup>†</sup>***
 
 - **Facility Location Games with Task Allocation**  
-  (α-β) Zifan Gong, Minming Li, ***Houyu Zhou***
+  (α-β) Zifan Gong, Minming Li, ***Houyu Zhou<sup>†</sup>***
 
 - **Likelihood of the Existence of Average Justified Representation**  
   (α-β) Qishen Han, Biaoshuai Tao, Lirong Xia, Chengkai Zhang, ***Houyu Zhou***
@@ -51,11 +53,11 @@ I am interested in algorithmic game theory and computational social choice.
 ### 2025
 
 - **The Degree of (Extended) Justified Representation and Its Optimization**  
-  (α-β) Biaoshuai Tao, Chengkai Zhang, ***Houyu Zhou***  
+  (α-β) Biaoshuai Tao, Chengkai Zhang, ***Houyu Zhou<sup>†</sup>***  
   *AAMAS, CORE-A<sup>*</sup>*
 
 - **Group-fair Facility Location Games with Externalities**  
-  (α-β) Minming Li, Cheng Peng, Ying Wang, ***Houyu Zhou***  
+  (α-β) Minming Li, Cheng Peng, Ying Wang, ***Houyu Zhou<sup>†</sup>***  
   *AAMAS(Extended Abstract), CORE-A<sup>*</sup>*
 
 ### 2024
@@ -70,11 +72,11 @@ I am interested in algorithmic game theory and computational social choice.
   *AAAI(oral), CORE-A<sup>*</sup>* 
 
 - **Positive Intra-Group Externalities in Facility Location**  
-  Ying Wang, ***Houyu Zhou***, Minming Li  
+  Ying Wang, ***Houyu Zhou<sup>†</sup>***, Minming Li  
   *AAMAS, CORE-A<sup>*</sup>*
 
 - **Facility Location Games with Task Allocation**  
-  (α-β) Zifan Gong, Minming Li, ***Houyu Zhou***  
+  (α-β) Zifan Gong, Minming Li, ***Houyu Zhou<sup>†</sup>***  
   *AAMAS(Extended Abstract), CORE-A<sup>*</sup>*  
 
 ### 2023
