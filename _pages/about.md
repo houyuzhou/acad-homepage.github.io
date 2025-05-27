@@ -19,7 +19,7 @@ redirect_from:
 
 I am Houyu Zhou, a postdoc in the Algorithmic Decision Theory (ADT) Group led by Haris Aziz and Toby Walsh at UNSW Sydney. Prior to this, I got my PhD at City University of Hong Kong, under the supervision of Minming Li. I received my BEng from Computer Elite Class, Shandong University in June 2020. I also visited John Hopcroft Center for Computer Science, Shanghai Jiao Tong University, hosted by Biaoshuai Tao, from July-2023 to Jan-2024.
 
-I am interested in algorithmic game theory and computational social choice.
+I am interested in algorithmic game theory and computational social choice. My work explores problems inspired by economic and societal challenges through the lens of computer science and artificial intelligence. Recently, my research has centered on mechanism design in complex, real-world settings, tackling strategic behavior using both theoretical methodologies (e.g., approximation ratio and computational complexity analysis) and modern innovations including large language models.
 
 
 <!-- # 🔥 News
