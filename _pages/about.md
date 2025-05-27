@@ -28,7 +28,7 @@ I am interested in algorithmic game theory and computational social choice. My w
 
 # 📝 Publications 
 
-_Note: By international convention, authors for papers in **T**heoretical **C**omputer **S**cience (TCS) and **Econ**omics and **C**omputer **S**cience (EconCS) are ordered alphabetically. Asterisk indicates papers in theoretical computer science where alphabetical authorship is used. † indicates the corresponding author._
+_Note: By international convention, authors for papers in **T**heoretical **C**omputer **S**cience (TCS) and **Econ**omics and **C**omputer **S**cience (EconCS) are ordered alphabetically (α-β). † indicates the corresponding author._
 
 ### Under Review
 
